@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/mainActivity2">
+    <activity
+        android:id="@+id/mainActivity2"
+        android:name="com.gttron.yukino.smpc.plz.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/statusactivity"
+        android:name="com.gttron.yukino.smpc.plz.statusactivity"
+        android:label="activity_statusactivity"
+        tools:layout="@layout/activity_statusactivity" />
+    <activity
+        android:id="@+id/accountactivity2"
+        android:name="com.gttron.yukino.smpc.plz.accountactivity"
+        android:label="activity_accountactivity"
+        tools:layout="@layout/activity_accountactivity" />
+</navigation>

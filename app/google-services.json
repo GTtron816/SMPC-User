@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "339105898267",
+    "firebase_url": "https://smpc-225dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smpc-225dd",
+    "storage_bucket": "smpc-225dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339105898267:android:c22b7625f5d4958e1efdbe",
+        "android_client_info": {
+          "package_name": "com.gttron.yukino.smpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkaoeO37H99ejZSwpkhEJDqzj-ctDwQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339105898267:android:d38610cc780235f61efdbe",
+        "android_client_info": {
+          "package_name": "com.gttron.yukino.smpc.plz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkaoeO37H99ejZSwpkhEJDqzj-ctDwQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339105898267:android:5a199f41996c8dca1efdbe",
+        "android_client_info": {
+          "package_name": "com.gttron.yukino.spinnertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkaoeO37H99ejZSwpkhEJDqzj-ctDwQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339105898267-5ruj8pgluv857llvahivqmq0b35sm0bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
